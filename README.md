@@ -22,4 +22,4 @@
 <br/>
 
 At the moment, working as a Full cycle developer & Tech lead at Gruppy Tecnologia. 
-<a href="https://gruppy.com.br">🔗</a>
+<a href="https://gruppy.com.br" target="_blank">🔗</a>
