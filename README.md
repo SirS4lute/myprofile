@@ -4,8 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saw_lute/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william-salute@hotmail.com)
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirs4lute)](https://github.com/anuraghazra/github-readme-stats)
-
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirs4lute&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias utilizadas no dia a dia
 <div style="text-align:center;"><br/>
