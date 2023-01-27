@@ -22,5 +22,4 @@
 <br/>
 
 At the moment, working as a Full cycle developer & Tech lead at Gruppy Tecnologia. 
-<img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-[![Site]🔗](https://gruppy.com.br)
+[![Site](https://gruppy.com.br)🔗
