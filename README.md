@@ -22,4 +22,4 @@
 <br/>
 
 At the moment, working as a Senior Full Stack Developer at ISH Tecnologia. 
-<a href="https://gruppy.com.br" target="_blank">🔗</a>
+<a href="https://www.ish.com.br" target="_blank">🔗</a>
