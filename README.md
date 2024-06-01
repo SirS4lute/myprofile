@@ -1,4 +1,6 @@
-## Hi! I'm William Salute! 👋
+<img align="center" src="https://github.com/SirS4lute/sirs4lute/blob/main/header_presentation.svg"/>
+
+<!-- ## Hi! I'm William Salute! 👋 -->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-alves-salute-25860579/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saw_lute/)
